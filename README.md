@@ -10,7 +10,7 @@ I am a developer who respects the classic, time-tested fundamentals of software 
 - 🎓 B.Tech Computer Science & Engineering (Class of 2026) at Future Institute of Engineering and Management.
 - 🧠 Exploring the intersection of traditional data structures (actively practicing via NeetCode 150) and modern AI, like my Gemini-powered RAG Document Assistant.
 - ☁️ Deepening my cloud fundamentals as an AWS re/Start Trainee, utilizing infrastructure (VPC, EC2, S3) strictly to deploy and scale my personal coding projects and portfolio architecture.
-- 💡 **Current Focus:** Scaling **FinPulse SaaS** (my enterprise financial analytics platform) and building full-stack platforms with robust REST API architectures.
+- 💡 Current Focus: Actively looking for entry-level Software Engineer / Full-Stack roles! (Currently scaling FinPulse SaaS in my free time).
 
 ### 🛠️ Tech Stack
 - **Machine Learning & GenAI:** Python, scikit-learn, LangChain, Google Gemini API, NLP (TF-IDF), FastAPI
