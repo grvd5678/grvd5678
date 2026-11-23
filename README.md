@@ -18,7 +18,7 @@
 | **NexusGraph** | `Next.js 15` `FastAPI` `FalkorDB` `TypeScript` | [Code](https://github.com/grvd5678/nexusgraph) • [Live Demo](https://nexusgraph-omega.vercel.app/)<br>Graph-based codebase memory engine computing real-time dependency blast-radii |
 | **StreamPulse AI** | `React` `Node.js` `Express` `Socket.io` `MongoDB` | [Code](https://github.com/grvd5678/streampulse-ai) • [Live Demo](https://streampulse-ai-gules.vercel.app/)<br>Event-driven streaming co-pilot with sub-second bi-directional WebSocket overlays |
 | **FinPulse SaaS** | `Next.js 16` `React 19` `PostgreSQL (Neon)` `Drizzle ORM` | [Code](https://github.com/grvd5678/finpulse-saas) • [Live Demo](https://finpulse-saas-five.vercel.app/)<br>Enterprise multi-tenant FinTech workspace with streaming parallel routes & secure webhooks |
-| **ShopHub (E-Commerce)** | `Node.js` `Express` `MongoDB` `Docker` `Railway` | [Code](https://github.com/grvd5678/ecommerce-backend) • [Live Demo](https://ecommerce-frontend-l3zz.onrender.com/)<br>Containerized RESTful engine with JWT auth, transactional order workflows, and role-based ACL |
+| **ShopHub (E-Commerce)** | `Node.js` `Express` `MongoDB` `Docker` `Railway` | [Code](https://github.com/grvd5678/ecommerce) • [Live Demo](https://ecommerce-frontend-l3zz.onrender.com/)<br>Containerized RESTful engine with JWT auth, transactional order workflows, and role-based ACL |
 
 ---
 
