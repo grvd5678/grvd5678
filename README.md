@@ -1,6 +1,6 @@
 # Gourav Das 👋
 
-**Software Development Engineer (SDE)** • Kolkata, India  
+**Aspiring Software Development Engineer (SDE)** • Kolkata, India  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gourav-das-7a94a02b1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-lfou.vercel.app/)
 [![NeetCode](https://img.shields.io/badge/NeetCode-FieryMithril106-1e293b?style=flat&logo=codeforces&logoColor=38bdf8)](https://neetcode.io/user/FieryMithril106)
